@@ -11,6 +11,7 @@ import html
 from urllib.parse import urljoin
 
 MFPLINK = "LINKMFP"
+MFPPSW = "MFPPSW"
 
 # Funzioni dal tuo mpd_decoder.py
 def extract_mpd_link_from_page(url):
@@ -60,7 +61,7 @@ def decode_base64_keys(encoded_string):
         print(f"Errore durante la decodifica base64: {e}")
         return None, None
 
-def generate_proxy_url(mpd_link, key1, key2, api_password="mfp"):
+def generate_proxy_url(mpd_link, key1, key2, api_password=f"{MFPPSW}"):
     """Genera l'URL proxy con i parametri richiesti"""
     base_url = f"{MFPLINK}/proxy/mpd/manifest.m3u8"
     
