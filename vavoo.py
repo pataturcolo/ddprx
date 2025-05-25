@@ -3,10 +3,10 @@ import json
 import re
 import os
 
-USREPG = ""
-BRANCHEPG = ""
-MFPLINK = ""     # non mettere lo / finale al link
-MFPPSW = ""
+USREPG = "pataturcolo"
+BRANCHEPG = "main"
+MFPLINK = "https://proxiaml.onrender.com"     # non mettere lo / finale al link
+MFPPSW = "proxiaml"
 
 
 PROXY = f"{MFPLINK}/proxy/hls/manifest.m3u8?api_password={MFPPSW}&d="
