@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Juventus vs Wydad Casablanca" tvg-name="18:00 FIFA Club World Cup : Juventus vs Wydad Casablanca - 22/06/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-06/1750575896_juventus-x-wydad-casablanca.jpg" group-title="Soccer", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Juventus vs Wydad Casablanca" tvg-name="18:00 FIFA Club World Cup : Juventus vs Wydad Casablanca - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php
 
 #EXTINF:-1 tvg-id="Canadian Premier League - York United vs Atlético Ottawa" tvg-name="19:00 Canadian Premier League : York United vs Atlético Ottawa - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Soccer Plus
@@ -14,7 +14,7 @@ https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="Italy - Serie B - Salernitana vs Sampdoria" tvg-name="20:30 Italy - Serie B : Salernitana vs Sampdoria - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5 Star Israel
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-147.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Real Madrid vs Pachuca" tvg-name="21:00 FIFA Club World Cup : Real Madrid vs Pachuca - 22/06/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-06/1750575879_real-madrid-x-pachuca.jpg" group-title="Soccer", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Real Madrid vs Pachuca" tvg-name="21:00 FIFA Club World Cup : Real Madrid vs Pachuca - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php
 
 #EXTINF:-1 tvg-id="Brazil - Serie B - Coritiba vs Cuiabá" tvg-name="21:00 Brazil - Serie B : Coritiba vs Cuiabá - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
@@ -29,10 +29,10 @@ https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="Brazil - Serie B - Amazonas vs Vila Nova" tvg-name="23:00 Brazil - Serie B : Amazonas vs Vila Nova - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-81.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Salzburg vs Al Hilal" tvg-name="00:00 FIFA Club World Cup : Salzburg vs Al Hilal - 22/06/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-06/1750575667_salzburg-x-al-hilal.jpg" group-title="Soccer", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Salzburg vs Al Hilal" tvg-name="00:00 FIFA Club World Cup : Salzburg vs Al Hilal - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Ain" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Ain - 22/06/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-06/1750575457_manchester-city-x-al-ain.jpg" group-title="Soccer", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Ain" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Ain - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php
 
 #EXTINF:-1 tvg-id="ATP - LONDON - Bublik A. vs Medvedev D." tvg-name="11:30 ATP - LONDON : Bublik A. vs Medvedev D. - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - LONDON", Tennis Stream 7
@@ -410,28 +410,28 @@ https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="Basketball - 3rd and 4th Place Men's Game - Gondomar" tvg-name="18:00 Basketball: 3rd and 4th Place Men's Game - Gondomar - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", DAZN Eleven 3 Portugal
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-457.php
 
-#EXTINF:-1 tvg-id="ACB - Real Madrid vs Valencia" tvg-name="18:30 ACB : Real Madrid vs Valencia - 22/06/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-06/1750575879_real-madrid-x-pachuca.jpg" group-title="Basketball", Movistar Deportes Spain
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Valencia" tvg-name="18:30 ACB : Real Madrid vs Valencia - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes Spain
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-436.php
 
-#EXTINF:-1 tvg-id="ACB - Real Madrid vs Valencia" tvg-name="18:30 ACB : Real Madrid vs Valencia - 22/06/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-06/1750575879_real-madrid-x-pachuca.jpg" group-title="Basketball", Movistar Deportes 3 Spain
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Valencia" tvg-name="18:30 ACB : Real Madrid vs Valencia - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes 3 Spain
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-526.php
 
-#EXTINF:-1 tvg-id="ACB - Real Madrid vs Valencia" tvg-name="18:30 ACB : Real Madrid vs Valencia - 22/06/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-06/1750575879_real-madrid-x-pachuca.jpg" group-title="Basketball", Sportdigital+ DE
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Valencia" tvg-name="18:30 ACB : Real Madrid vs Valencia - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportdigital+ DE
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-640.php
 
-#EXTINF:-1 tvg-id="ACB - Real Madrid vs Valencia" tvg-name="18:30 ACB : Real Madrid vs Valencia - 22/06/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-06/1750575879_real-madrid-x-pachuca.jpg" group-title="Basketball", Cosmote Sport 4 Greece
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Valencia" tvg-name="18:30 ACB : Real Madrid vs Valencia - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 4 Greece
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-625.php
 
-#EXTINF:-1 tvg-id="ACB - Real Madrid vs Valencia" tvg-name="18:30 ACB : Real Madrid vs Valencia - 22/06/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-06/1750575879_real-madrid-x-pachuca.jpg" group-title="Basketball", Next Level Sports
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Valencia" tvg-name="18:30 ACB : Real Madrid vs Valencia - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Next Level Sports
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-68.php
 
-#EXTINF:-1 tvg-id="ACB - Real Madrid vs Valencia" tvg-name="18:30 ACB : Real Madrid vs Valencia - 22/06/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-06/1750575879_real-madrid-x-pachuca.jpg" group-title="Basketball", Arena 1 Premium Serbia
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Valencia" tvg-name="18:30 ACB : Real Madrid vs Valencia - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
 
-#EXTINF:-1 tvg-id="ACB - Real Madrid vs Valencia" tvg-name="18:30 ACB : Real Madrid vs Valencia - 22/06/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-06/1750575879_real-madrid-x-pachuca.jpg" group-title="Basketball", Sport klub 8 Croatia
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Valencia" tvg-name="18:30 ACB : Real Madrid vs Valencia - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport klub 8 Croatia
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-69.php
 
-#EXTINF:-1 tvg-id="ACB - Real Madrid vs Valencia" tvg-name="18:30 ACB : Real Madrid vs Valencia - 22/06/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-06/1750575879_real-madrid-x-pachuca.jpg" group-title="Basketball", Sport 1 Israel
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Valencia" tvg-name="18:30 ACB : Real Madrid vs Valencia - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 1 Israel
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-140.php
 
 #EXTINF:-1 tvg-id="Women's European Basketball Championship - Slovenia vs Serbia" tvg-name="18:55 Women's European Basketball Championship : Slovenia vs Serbia - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Duna World Hungry
@@ -653,10 +653,10 @@ https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="AVP Beach Volleyball League Week 4 - East Hampton - AVP Beach Volleyball League Week 4 - East Hampton" tvg-name="21:00 AVP Beach Volleyball League Week 4 - East Hampton - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", CW PIX 11 USA
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-280.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Atlético Madrid vs Botafogo" tvg-name="21:00 FIFA Club World Cup : Atlético Madrid vs Botafogo - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Atlético Madrid vs Botafogo" tvg-name="21:00 FIFA Club World Cup : Atlético Madrid vs Botafogo - 23/06/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-06/1750675872_atltico-madrid-x-botafogo.jpg" group-title="Soccer", SuperSport Premier League
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Porto vs Al Ahly" tvg-name="03:00 FIFA Club World Cup : Porto vs Al Ahly - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League HD
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Porto vs Al Ahly" tvg-name="03:00 FIFA Club World Cup : Porto vs Al Ahly - 23/06/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-06/1750675759_porto-x-al-ahly.jpg" group-title="Soccer", SuperSport Premier League HD
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php
 
 #EXTINF:-1 tvg-id="WIMBLEDON - QUALIFYING - Jubb P. vs Tirante T. A." tvg-name="08:30 WIMBLEDON - QUALIFYING : Jubb P. vs Tirante T. A. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WIMBLEDON - QUALIFYING", Tennis Stream 15
