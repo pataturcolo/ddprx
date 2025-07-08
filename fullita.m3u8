@@ -8,3 +8,12 @@ https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="UEFA Women's Euro - Portugal vs Italy" tvg-name="20:00 UEFA Women's Euro : Portugal vs Italy - 07/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Rai 2 IT
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-851.php
 
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Germany vs Denmark" tvg-name="17:00 UEFA Women's Euro : Germany vs Denmark - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Rai Sport IT
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Poland vs Sweden" tvg-name="20:00 UEFA Women's Euro : Poland vs Sweden - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RSI La 2 IT
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-15.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Fluminense vs Chelsea" tvg-name="20:00 FIFA Club World Cup : Fluminense vs Chelsea - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canale 5 IT
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-16.php
+
