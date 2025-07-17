@@ -11,3 +11,6 @@ https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="World Championship - Spain vs Hungary" tvg-name="13:45 World Championship : Spain vs Hungary - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Rai Sport 1 Italy
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
 
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Sweden vs England" tvg-name="20:00 UEFA Women's Euro : Sweden vs England - 17/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI Sport 1 IT
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
+
