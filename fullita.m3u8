@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Club Friendly - Ajax vs Celtic" tvg-name="19:30 Club Friendly : Ajax vs Celtic - 24/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
-
-#EXTINF:-1 tvg-id="World Championship - Final" tvg-name="12:30 World Championship: Final - 24/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", RAI 2 IT
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-851.php
-
 #EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Cork City vs Sligo Rovers" tvg-name="19:45 Ireland Republic - Premier Division : Cork City vs Sligo Rovers - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-151.php
 
