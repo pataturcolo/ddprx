@@ -35,3 +35,12 @@ https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="Club Friendly - Palermo vs Manchester City" tvg-name="20:00 Club Friendly : Palermo vs Manchester City - 09/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
 
+#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Galway United vs Shamrock Rovers" tvg-name="17:00 Ireland Republic - Premier Division : Galway United vs Shamrock Rovers - 10/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-152.php
+
+#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - St Patrick's vs Sligo Rovers" tvg-name="18:00 Ireland Republic - Premier Division : St Patrick's vs Sligo Rovers - 10/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-153.php
+
+#EXTINF:-1 tvg-id="Club Friendly - Napoli vs Sorrento" tvg-name="10:00 Club Friendly : Napoli vs Sorrento - 10/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Uno Italia HD
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-461.php
+
