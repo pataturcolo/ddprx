@@ -1,471 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sharon Speedway's Super DIRTcar Series - Sharon Speedway's Super DIRTcar Series" tvg-name="00:00 Sharon Speedway's Super DIRTcar Series - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", DIRTVision
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-5000.php
+#EXTINF:-1 tvg-id="Super DIRTcar Series Ransomville - Super DIRTcar Series Ransomville" tvg-name="23:00 Super DIRTcar Series Ransomville - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Event PPV
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-68.php
 
-#EXTINF:-1 tvg-id="Wild Thing Kart Series at Stafford Speedway - Wild Thing Kart Series at Stafford Speedway" tvg-name="00:00 Wild Thing Kart Series at Stafford Speedway - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", FLORacing
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-5002.php
-
-#EXTINF:-1 tvg-id="African Nations Championship - South Africa vs Guinea" tvg-name="15:00 African Nations Championship : South Africa vs Guinea - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 3 Malaysia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-714.php
-
-#EXTINF:-1 tvg-id="African Nations Championship - South Africa vs Guinea" tvg-name="15:00 African Nations Championship : South Africa vs Guinea - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Sport 1 Afrique
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-486.php
-
-#EXTINF:-1 tvg-id="African Nations Championship - South Africa vs Guinea" tvg-name="15:00 African Nations Championship : South Africa vs Guinea - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS XTRA 1
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-100.php
-
-#EXTINF:-1 tvg-id="African Nations Championship - South Africa vs Guinea" tvg-name="15:00 African Nations Championship : South Africa vs Guinea - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Variety 4
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-419.php
-
-#EXTINF:-1 tvg-id="African Nations Championship - South Africa vs Guinea" tvg-name="15:00 African Nations Championship : South Africa vs Guinea - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport MaXimo 1
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-572.php
-
-#EXTINF:-1 tvg-id="African Nations Championship - South Africa vs Guinea" tvg-name="15:00 African Nations Championship : South Africa vs Guinea - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 6 HD
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-96.php
-
-#EXTINF:-1 tvg-id="African Nations Championship - South Africa vs Guinea" tvg-name="15:00 African Nations Championship : South Africa vs Guinea - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5 Live Israel
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-146.php
-
-#EXTINF:-1 tvg-id="Ukraine Premier League - Zorya vs Kudrivka" tvg-name="16:00 Ukraine Premier League : Zorya vs Kudrivka - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", UPL.TV
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-9000.php
-
-#EXTINF:-1 tvg-id="Bulgaria - Parva Liga - Septemvri Sofia vs Beroe" tvg-name="17:00 Bulgaria - Parva Liga : Septemvri Sofia vs Beroe - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Diema Sport Bulgaria
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-465.php
-
-#EXTINF:-1 tvg-id="Bulgaria - Parva Liga - Septemvri Sofia vs Beroe" tvg-name="17:00 Bulgaria - Parva Liga : Septemvri Sofia vs Beroe - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub 3 Croatia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-103.php
-
-#EXTINF:-1 tvg-id="Romania Liga I - Botoşani vs SCM Argeşul Piteşti" tvg-name="17:00 Romania Liga I : Botoşani vs SCM Argeşul Piteşti - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 1 Romania
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-400.php
-
-#EXTINF:-1 tvg-id="Romania Liga I - Botoşani vs SCM Argeşul Piteşti" tvg-name="17:00 Romania Liga I : Botoşani vs SCM Argeşul Piteşti - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Prima Sport 1 Romania
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-583.php
-
-#EXTINF:-1 tvg-id="Romania Liga I - Botoşani vs SCM Argeşul Piteşti" tvg-name="17:00 Romania Liga I : Botoşani vs SCM Argeşul Piteşti - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Croatia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-432.php
-
-#EXTINF:-1 tvg-id="Lithuanian League - Siauliai vs Zalgiris Vilnius" tvg-name="17:00 Lithuanian League : Siauliai vs Zalgiris Vilnius - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub 1 Croatia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php
-
-#EXTINF:-1 tvg-id="Club Friendly - Anorthosis vs APOEL" tvg-name="17:30 Club Friendly : Anorthosis vs APOEL - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cablenet Sports 1
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-9.php
-
-#EXTINF:-1 tvg-id="Russia - FNL - KAMAZ vs Fakel" tvg-name="18:00 Russia - FNL : KAMAZ vs Fakel - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match Premier Russia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-573.php
-
-#EXTINF:-1 tvg-id="Russia - FNL - KAMAZ vs Fakel" tvg-name="18:00 Russia - FNL : KAMAZ vs Fakel - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match TV Russia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-127.php
-
-#EXTINF:-1 tvg-id="African Nations Championship - Uganda vs Niger" tvg-name="18:00 African Nations Championship : Uganda vs Niger - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 3 Malaysia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-714.php
-
-#EXTINF:-1 tvg-id="African Nations Championship - Uganda vs Niger" tvg-name="18:00 African Nations Championship : Uganda vs Niger - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Sport 1 Afrique
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-486.php
-
-#EXTINF:-1 tvg-id="African Nations Championship - Uganda vs Niger" tvg-name="18:00 African Nations Championship : Uganda vs Niger - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS XTRA 1
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-100.php
-
-#EXTINF:-1 tvg-id="African Nations Championship - Uganda vs Niger" tvg-name="18:00 African Nations Championship : Uganda vs Niger - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Variety 4
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-419.php
-
-#EXTINF:-1 tvg-id="African Nations Championship - Uganda vs Niger" tvg-name="18:00 African Nations Championship : Uganda vs Niger - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport MaXimo 1
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-572.php
-
-#EXTINF:-1 tvg-id="African Nations Championship - Uganda vs Niger" tvg-name="18:00 African Nations Championship : Uganda vs Niger - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 6 HD
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-96.php
-
-#EXTINF:-1 tvg-id="African Nations Championship - Uganda vs Niger" tvg-name="18:00 African Nations Championship : Uganda vs Niger - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5 Sport Israel
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-144.php
-
-#EXTINF:-1 tvg-id="Denmark - Super Liga - OB vs Randers" tvg-name="18:00 Denmark - Super Liga : OB vs Randers - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV2 Sport X Denmark
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-808.php
-
-#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Lechia Gdańsk vs Motor Lublin" tvg-name="18:00 Poland - Ekstraklasa : Lechia Gdańsk vs Motor Lublin - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Sport 3 Poland
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-259.php
-
-#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Lechia Gdańsk vs Motor Lublin" tvg-name="18:00 Poland - Ekstraklasa : Lechia Gdańsk vs Motor Lublin - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 4 Premium Serbia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1.php
-
-#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Lechia Gdańsk vs Motor Lublin" tvg-name="18:00 Poland - Ekstraklasa : Lechia Gdańsk vs Motor Lublin - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 3 Croatia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-434.php
-
-#EXTINF:-1 tvg-id="Poland I Liga - Puszcza Niepołomice vs Wieczysta Kraków" tvg-name="18:00 Poland I Liga : Puszcza Niepołomice vs Wieczysta Kraków - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TVP Sport Poland
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-128.php
-
-#EXTINF:-1 tvg-id="Portugal - Segunda liga - UD Oliveirense vs Farense" tvg-name="18:00 Portugal - Segunda liga : UD Oliveirense vs Farense - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV3 Portugal
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-454.php
-
-#EXTINF:-1 tvg-id="Serbia - Super Liga - IMT Novi Beograd vs Železničar Pančevo" tvg-name="18:00 Serbia - Super Liga : IMT Novi Beograd vs Železničar Pančevo - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 2 Premium Serbia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-135.php
-
-#EXTINF:-1 tvg-id="Serbia - Super Liga - Javor Ivanjica vs Radnički Kragujevac" tvg-name="18:00 Serbia - Super Liga : Javor Ivanjica vs Radnički Kragujevac - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 1 Premium Serbia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
-
-#EXTINF:-1 tvg-id="Sweden - Allsvenskan - Elfsborg vs Värnamo" tvg-name="18:00 Sweden - Allsvenskan : Elfsborg vs Värnamo - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Max Extra 2 HD Sweden
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
-
-#EXTINF:-1 tvg-id="Sweden - Allsvenskan - GAIS vs IFK Göteborg" tvg-name="18:00 Sweden - Allsvenskan : GAIS vs IFK Göteborg - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Max Extra 1 HD Sweden
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-3.php
-
-#EXTINF:-1 tvg-id="Portugal Primeira Liga - Estoril Praia vs Estrela Amadora" tvg-name="18:45 Portugal Primeira Liga : Estoril Praia vs Estrela Amadora - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV2 Portugal
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-74.php
-
-#EXTINF:-1 tvg-id="Hungary - NB II - Vasas vs Békéscsaba" tvg-name="19:00 Hungary - NB II : Vasas vs Békéscsaba - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 4 Hungary HD
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php
-
-#EXTINF:-1 tvg-id="Netherlands Eerste Divisie - AZ II vs RKC Waalwijk" tvg-name="19:00 Netherlands Eerste Divisie : AZ II vs RKC Waalwijk - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN 1 NL
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-379.php
-
-#EXTINF:-1 tvg-id="Netherlands Eerste Divisie - PSV II vs Emmen" tvg-name="19:00 Netherlands Eerste Divisie : PSV II vs Emmen - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN 2 NL
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-386.php
-
-#EXTINF:-1 tvg-id="Bulgaria - Parva Liga - Arda vs Lokomotiv Plovdiv" tvg-name="19:15 Bulgaria - Parva Liga : Arda vs Lokomotiv Plovdiv - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Diema Sport Bulgaria
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-465.php
-
-#EXTINF:-1 tvg-id="Turkey - Super Lig - Trabzonspor vs Kocaelispor" tvg-name="19:30 Turkey - Super Lig : Trabzonspor vs Kocaelispor - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 1 Turkey
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-62.php
-
-#EXTINF:-1 tvg-id="Turkey - Super Lig - Trabzonspor vs Kocaelispor" tvg-name="19:30 Turkey - Super Lig : Trabzonspor vs Kocaelispor - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 3 Premium Serbia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-139.php
-
-#EXTINF:-1 tvg-id="Turkey - Super Lig - Trabzonspor vs Kocaelispor" tvg-name="19:30 Turkey - Super Lig : Trabzonspor vs Kocaelispor - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match! Football 3 Russia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-138.php
-
-#EXTINF:-1 tvg-id="Turkey - Super Lig - Trabzonspor vs Kocaelispor" tvg-name="19:30 Turkey - Super Lig : Trabzonspor vs Kocaelispor - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 9 HD
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-99.php
-
-#EXTINF:-1 tvg-id="Turkey - Super Lig - Trabzonspor vs Kocaelispor" tvg-name="19:30 Turkey - Super Lig : Trabzonspor vs Kocaelispor - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MAX 4 France
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-494.php
-
-#EXTINF:-1 tvg-id="Turkey - Super Lig - Trabzonspor vs Kocaelispor" tvg-name="19:30 Turkey - Super Lig : Trabzonspor vs Kocaelispor - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Sports 2 Argentina
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-788.php
-
-#EXTINF:-1 tvg-id="Turkey - Super Lig - Trabzonspor vs Kocaelispor" tvg-name="19:30 Turkey - Super Lig : Trabzonspor vs Kocaelispor - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub 3 Croatia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-103.php
-
-#EXTINF:-1 tvg-id="Turkey - 1. Lig - Erokspor vs Adana Demirspor" tvg-name="19:30 Turkey - 1. Lig : Erokspor vs Adana Demirspor - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 2 Turkey
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-63.php
-
-#EXTINF:-1 tvg-id="Turkey - 1. Lig - Erokspor vs Adana Demirspor" tvg-name="19:30 Turkey - 1. Lig : Erokspor vs Adana Demirspor - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TRT Spor Turkey
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-889.php
-
-#EXTINF:-1 tvg-id="Romania Liga I - Oţelul vs Rapid Bucureşti" tvg-name="19:30 Romania Liga I : Oţelul vs Rapid Bucureşti - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 1 Romania
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-400.php
-
-#EXTINF:-1 tvg-id="Romania Liga I - Oţelul vs Rapid Bucureşti" tvg-name="19:30 Romania Liga I : Oţelul vs Rapid Bucureşti - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Prima Sport 1 Romania
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-583.php
-
-#EXTINF:-1 tvg-id="Romania Liga I - Oţelul vs Rapid Bucureşti" tvg-name="19:30 Romania Liga I : Oţelul vs Rapid Bucureşti - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 2 Croatia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-433.php
-
-#EXTINF:-1 tvg-id="France Ligue 2 - Amiens SC vs Reims" tvg-name="19:45 France Ligue 2 : Amiens SC vs Reims - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN1 DE
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-426.php
-
-#EXTINF:-1 tvg-id="France Ligue 2 - Amiens SC vs Reims" tvg-name="19:45 France Ligue 2 : Amiens SC vs Reims - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 1 France
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-116.php
-
-#EXTINF:-1 tvg-id="France Ligue 2 - Amiens SC vs Reims" tvg-name="19:45 France Ligue 2 : Amiens SC vs Reims - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS USA
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-425.php
-
-#EXTINF:-1 tvg-id="France Ligue 2 - Amiens SC vs Reims" tvg-name="19:45 France Ligue 2 : Amiens SC vs Reims - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS en Espanol
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-372.php
-
-#EXTINF:-1 tvg-id="France Ligue 2 - Amiens SC vs Reims" tvg-name="19:45 France Ligue 2 : Amiens SC vs Reims - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sport 2 CZ
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1022.php
-
-#EXTINF:-1 tvg-id="France Ligue 2 - Amiens SC vs Reims" tvg-name="19:45 France Ligue 2 : Amiens SC vs Reims - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cablenet Sports 2
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-10.php
-
-#EXTINF:-1 tvg-id="France Ligue 2 - Amiens SC vs Reims" tvg-name="19:45 France Ligue 2 : Amiens SC vs Reims - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 4 Turkey
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-67.php
-
-#EXTINF:-1 tvg-id="France Ligue 2 - Amiens SC vs Reims" tvg-name="19:45 France Ligue 2 : Amiens SC vs Reims - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 4 Croatia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-580.php
-
-#EXTINF:-1 tvg-id="France Ligue 2 - Amiens SC vs Reims" tvg-name="19:45 France Ligue 2 : Amiens SC vs Reims - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Diema Sport 3 Bulgaria
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-467.php
-
-#EXTINF:-1 tvg-id="France Ligue 2 - Amiens SC vs Reims" tvg-name="19:45 France Ligue 2 : Amiens SC vs Reims - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 4
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-94.php
-
-#EXTINF:-1 tvg-id="Iceland - Besta deild karla - KR vs Afturelding" tvg-name="20:15 Iceland - Besta deild karla : KR vs Afturelding - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SÝN Sport 1 Ísland
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-5.php
-
-#EXTINF:-1 tvg-id="Iceland - Besta deild karla - FH vs ÍA" tvg-name="20:15 Iceland - Besta deild karla : FH vs ÍA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SÝN Sport 2 Ísland
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-6.php
-
-#EXTINF:-1 tvg-id="Portugal Primeira Liga - Porto vs Vitória Guimarães" tvg-name="20:45 Portugal Primeira Liga : Porto vs Vitória Guimarães - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV1 Portugal
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-49.php
-
-#EXTINF:-1 tvg-id="Portugal Primeira Liga - Porto vs Vitória Guimarães" tvg-name="20:45 Portugal Primeira Liga : Porto vs Vitória Guimarães - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 2 France
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-117.php
-
-#EXTINF:-1 tvg-id="Portugal Primeira Liga - Porto vs Vitória Guimarães" tvg-name="20:45 Portugal Primeira Liga : Porto vs Vitória Guimarães - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", GOLTV USA
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-597.php
-
-#EXTINF:-1 tvg-id="Portugal Primeira Liga - Porto vs Vitória Guimarães" tvg-name="20:45 Portugal Primeira Liga : Porto vs Vitória Guimarães - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cosmote Sport 3 HD
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-624.php
-
-#EXTINF:-1 tvg-id="Portugal Primeira Liga - Porto vs Vitória Guimarães" tvg-name="20:45 Portugal Primeira Liga : Porto vs Vitória Guimarães - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Tivibu Spor 1 Turkey
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-7.php
-
-#EXTINF:-1 tvg-id="Portugal Primeira Liga - Porto vs Vitória Guimarães" tvg-name="20:45 Portugal Primeira Liga : Porto vs Vitória Guimarães - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cytavision Sports 6 Cyprus
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-916.php
-
-#EXTINF:-1 tvg-id="Portugal Primeira Liga - Porto vs Vitória Guimarães" tvg-name="20:45 Portugal Primeira Liga : Porto vs Vitória Guimarães - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 4 Serbia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-581.php
-
-#EXTINF:-1 tvg-id="Portugal Primeira Liga - Porto vs Vitória Guimarães" tvg-name="20:45 Portugal Primeira Liga : Porto vs Vitória Guimarães - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport NL
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-393.php
-
-#EXTINF:-1 tvg-id="Portugal Primeira Liga - Porto vs Vitória Guimarães" tvg-name="20:45 Portugal Primeira Liga : Porto vs Vitória Guimarães - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Eleven Sports 2 Poland
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-72.php
-
-#EXTINF:-1 tvg-id="Portugal Primeira Liga - Porto vs Vitória Guimarães" tvg-name="20:45 Portugal Primeira Liga : Porto vs Vitória Guimarães - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 2 NL
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-398.php
-
-#EXTINF:-1 tvg-id="Portugal Primeira Liga - Porto vs Vitória Guimarães" tvg-name="20:45 Portugal Primeira Liga : Porto vs Vitória Guimarães - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 2 Premium Serbia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-135.php
-
-#EXTINF:-1 tvg-id="Portugal Primeira Liga - Porto vs Vitória Guimarães" tvg-name="20:45 Portugal Primeira Liga : Porto vs Vitória Guimarães - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sportdigital FUSSBALL DE
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-571.php
-
-#EXTINF:-1 tvg-id="Portugal Primeira Liga - Porto vs Vitória Guimarães" tvg-name="20:45 Portugal Primeira Liga : Porto vs Vitória Guimarães - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MAX 10 France
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-500.php
-
-#EXTINF:-1 tvg-id="Portugal Primeira Liga - Porto vs Vitória Guimarães" tvg-name="20:45 Portugal Primeira Liga : Porto vs Vitória Guimarães - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN4 Brazil
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-85.php
-
-#EXTINF:-1 tvg-id="Portugal Primeira Liga - Porto vs Vitória Guimarães" tvg-name="20:45 Portugal Primeira Liga : Porto vs Vitória Guimarães - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ring Bulgaria HD
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-471.php
-
-#EXTINF:-1 tvg-id="Portugal Primeira Liga - Porto vs Vitória Guimarães" tvg-name="20:45 Portugal Primeira Liga : Porto vs Vitória Guimarães - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub 1 Croatia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php
-
-#EXTINF:-1 tvg-id="Portugal Primeira Liga - Porto vs Vitória Guimarães" tvg-name="20:45 Portugal Primeira Liga : Porto vs Vitória Guimarães - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 2 Israel
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-141.php
-
-#EXTINF:-1 tvg-id="Peru Primera Division - Alianza Atlético vs UTC Cajamarca" tvg-name="21:00 Peru Primera Division : Alianza Atlético vs UTC Cajamarca - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Liga 1 Max Peru
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1.php
-
-#EXTINF:-1 tvg-id="Argentina Primera División - Defensa y Justicia vs Deportivo Riestra" tvg-name="23:00 Argentina Primera División : Defensa y Justicia vs Deportivo Riestra - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Premium Argentina
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-387.php
-
-#EXTINF:-1 tvg-id="Uruguay Primera Division - Defensor Sporting vs River Plate" tvg-name="23:00 Uruguay Primera Division : Defensor Sporting vs River Plate - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", VTV+
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-391.php
-
-#EXTINF:-1 tvg-id="Uruguay Primera Division - Defensor Sporting vs River Plate" tvg-name="23:00 Uruguay Primera Division : Defensor Sporting vs River Plate - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", GOLTV USA
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-597.php
-
-#EXTINF:-1 tvg-id="Argentina Primera Nacional - All Boys vs Patronato" tvg-name="23:10 Argentina Primera Nacional : All Boys vs Patronato - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TyC Sports Argentina
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-746.php
-
-#EXTINF:-1 tvg-id="Brasil Brasileirão - Juventude vs Corinthians" tvg-name="00:00 Brasil Brasileirão : Juventude vs Corinthians - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sportv Brazil
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-78.php
-
-#EXTINF:-1 tvg-id="Brasil Brasileirão - Juventude vs Corinthians" tvg-name="00:00 Brasil Brasileirão : Juventude vs Corinthians - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Premiere Brasil
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-88.php
-
-#EXTINF:-1 tvg-id="Brasil Brasileirão - Juventude vs Corinthians" tvg-name="00:00 Brasil Brasileirão : Juventude vs Corinthians - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match! Football 3 Russia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-138.php
-
-#EXTINF:-1 tvg-id="Chile Primera Division - Deportes Limache vs Audax Italiano" tvg-name="00:00 Chile Primera Division : Deportes Limache vs Audax Italiano - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT SPORTS Premium HD
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-642.php
-
-#EXTINF:-1 tvg-id="Colombia - Primera B - Atlético Huila vs Atlético Cali" tvg-name="00:00 Colombia - Primera B : Atlético Huila vs Atlético Cali - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Win+ Futbol Colombia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-392.php
-
-#EXTINF:-1 tvg-id="Peru Primera Division - Deportivo Garcilaso vs Alianza Universidad" tvg-name="01:00 Peru Primera Division : Deportivo Garcilaso vs Alianza Universidad - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Liga 1 Max Peru
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1.php
-
-#EXTINF:-1 tvg-id="Argentina Primera Nacional - Racing Córdoba vs Quilmes" tvg-name="01:10 Argentina Primera Nacional : Racing Córdoba vs Quilmes - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TyC Sports Argentina
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-746.php
-
-#EXTINF:-1 tvg-id="Argentina Primera Nacional - Racing Córdoba vs Quilmes" tvg-name="01:10 Argentina Primera Nacional : Racing Córdoba vs Quilmes - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 1 Israel
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-140.php
-
-#EXTINF:-1 tvg-id="Liga MX - León vs Monterrey" tvg-name="02:00 Liga MX : León vs Monterrey - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TUDN USA
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-66.php
-
-#EXTINF:-1 tvg-id="Liga MX - Juárez vs Toluca" tvg-name="04:00 Liga MX : Juárez vs Toluca - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", NBC UNIVERSO
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-845.php
-
-#EXTINF:-1 tvg-id="Liga MX - Juárez vs Toluca" tvg-name="04:00 Liga MX : Juárez vs Toluca - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Azteca 7 MX
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-844.php
-
-#EXTINF:-1 tvg-id="Liga MX - Juárez vs Toluca" tvg-name="04:00 Liga MX : Juárez vs Toluca - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", FOX Sports 1 USA
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-39.php
-
-#EXTINF:-1 tvg-id="Liga MX - Juárez vs Toluca" tvg-name="04:00 Liga MX : Juárez vs Toluca - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", FOX Deportes
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-643.php
-
-#EXTINF:-1 tvg-id="Liga MX - Atlético San Luis vs Cruz Azul" tvg-name="04:05 Liga MX : Atlético San Luis vs Cruz Azul - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TUDN USA
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-66.php
-
-#EXTINF:-1 tvg-id="Liga MX - Atlético San Luis vs Cruz Azul" tvg-name="04:05 Liga MX : Atlético San Luis vs Cruz Azul - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN2 Mexico
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-926.php
-
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Michelsen A. vs Rune H." tvg-name="16:00 ATP - CINCINNATI : Michelsen A. vs Rune H. - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1510.php
-
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Rinderknech A. vs Auger-Aliassime F." tvg-name="16:00 ATP - CINCINNATI : Rinderknech A. vs Auger-Aliassime F. - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1512.php
-
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Tiafoe F. vs Humbert U." tvg-name="17:30 ATP - CINCINNATI : Tiafoe F. vs Humbert U. - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1510.php
-
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Fritz T. vs Sonego L." tvg-name="19:00 ATP - CINCINNATI : Fritz T. vs Sonego L. - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1509.php
-
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Tsitsipas S. vs Bonzi B." tvg-name="19:00 ATP - CINCINNATI : Tsitsipas S. vs Bonzi B. - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1511.php
-
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Fonseca J. vs Atmane T." tvg-name="20:30 ATP - CINCINNATI : Fonseca J. vs Atmane T. - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1511.php
-
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Sinner J. vs Diallo G." tvg-name="00:00 ATP - CINCINNATI : Sinner J. vs Diallo G. - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1509.php
-
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Mannarino A. vs Paul T." tvg-name="01:30 ATP - CINCINNATI : Mannarino A. vs Paul T. - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1510.php
-
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Alexandrova E. vs Joint M." tvg-name="16:00 WTA - CINCINNATI : Alexandrova E. vs Joint M. - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1503.php
-
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Bouzas Maneiro J. vs Townsend T." tvg-name="16:00 WTA - CINCINNATI : Bouzas Maneiro J. vs Townsend T. - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1501.php
-
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Cirstea S. vs Yuan Y." tvg-name="17:30 WTA - CINCINNATI : Cirstea S. vs Yuan Y. - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1503.php
-
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Sabalenka A. vs Raducanu E." tvg-name="17:30 WTA - CINCINNATI : Sabalenka A. vs Raducanu E. - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1515.php
-
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Sabalenka A. vs Raducanu E." tvg-name="17:30 WTA - CINCINNATI : Sabalenka A. vs Raducanu E. - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1501.php
-
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Kalinskaya A. vs Anisimova A." tvg-name="20:00 WTA - CINCINNATI : Kalinskaya A. vs Anisimova A. - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1502.php
-
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Ito A. vs Keys M." tvg-name="00:00 WTA - CINCINNATI : Ito A. vs Keys M. - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1502.php
-
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Rybakina E. vs Mertens E." tvg-name="01:30 WTA - CINCINNATI : Rybakina E. vs Mertens E. - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1501.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-40.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-46.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-113.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-701.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet One
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-411.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet Ontario
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-406.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet West
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-407.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet East
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-408.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TVA Sports
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-833.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport TV2 Portugal
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-74.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-393.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-915.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-396.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-491.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-492.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-472.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Digi Sport 2 Romania
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-401.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-474.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 Malaysia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-712.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-713.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-102.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-453.php
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Tenis
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-612.php
-
-#EXTINF:-1 tvg-id="British Premiership Sheffield Tigers - Belle Vue Aces - British Premiership Sheffield Tigers - Belle Vue Aces" tvg-name="19:30 British Premiership Sheffield Tigers - Belle Vue Aces - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 1 UK
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-31.php
-
-#EXTINF:-1 tvg-id="EuroHockey Championship Women - Germany W vs Netherlands W" tvg-name="19:00 EuroHockey Championship Women : Germany W vs Netherlands W - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Field Hockey", Magenta Sport
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-8.php
-
-#EXTINF:-1 tvg-id="World Table Tennis Championship Yokohama - World Table Tennis Championship Yokohama" tvg-name="09:30 World Table Tennis Championship Yokohama - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Table Tennis", svt2 Sweden
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-5.php
-
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="01:00 WWE Monday Night RAW - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WWE", Netflix PPV
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
-
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="01:00 WWE Monday Night RAW - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WWE", Netflix PPV 2
+#EXTINF:-1 tvg-id="Super DIRTcar Series Ransomville - Super DIRTcar Series Ransomville" tvg-name="23:00 Super DIRTcar Series Ransomville - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Event PPV 2
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-5001.php
 
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="01:00 WWE Monday Night RAW - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WWE", SuperSport Variety 4
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-419.php
+#EXTINF:-1 tvg-id="2025 NAPA All Star Circuit of Champions at Wayne County Speedway - 2025 NAPA All Star Circuit of Champions at Wayne County Speedway" tvg-name="23:00 2025 NAPA All Star Circuit of Champions at Wayne County Speedway - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Floracing
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-76.php
 
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="01:00 WWE Monday Night RAW - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WWE", SuperSport Grandstand
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-412.php
+#EXTINF:-1 tvg-id="2025 NAPA All Star Circuit of Champions at Wayne County Speedway - 2025 NAPA All Star Circuit of Champions at Wayne County Speedway" tvg-name="23:00 2025 NAPA All Star Circuit of Champions at Wayne County Speedway - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Floracing
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-5002.php
 
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="01:00 WWE Monday Night RAW - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WWE", Supersports Action
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-420.php
+#EXTINF:-1 tvg-id="Millbridge Sprints - Millbridge Sprints" tvg-name="23:15 Millbridge Sprints - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Event PPV
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-69.php
 
-#EXTINF:-1 tvg-id="Asian Cup (M) - playoff for 1/4 Final 1" tvg-name="12:00 Asian Cup (M): playoff for 1/4 Final 1 - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php
+#EXTINF:-1 tvg-id="2025 Weekly Racing at Utica-Rome Speedway - 2025 Weekly Racing at Utica-Rome Speedway" tvg-name="23:30 2025 Weekly Racing at Utica-Rome Speedway - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Floracing
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-77.php
 
-#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Connecticut Sun W" tvg-name="03:00 WNBA : Golden State Valkyries W vs Connecticut Sun W - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBCS Boston
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-754.php
+#EXTINF:-1 tvg-id="2025 Weekly Racing at Utica-Rome Speedway - 2025 Weekly Racing at Utica-Rome Speedway" tvg-name="23:30 2025 Weekly Racing at Utica-Rome Speedway - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Floracing
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-5000.php
 
-#EXTINF:-1 tvg-id="Women's Volleyball - U-21 World Championship : Turkiye vs Czech Republic" tvg-name="07:00 Women's Volleyball: U-21 World Championship : Turkiye vs Czech Republic - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-50.php
+#EXTINF:-1 tvg-id="2025 IMCA Captain of the Creek at 141 Speedway - 2025 IMCA Captain of the Creek at 141 Speedway" tvg-name="00:25 2025 IMCA Captain of the Creek at 141 Speedway - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Event PPV
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-86.php
 
-#EXTINF:-1 tvg-id="Women's Volleyball - U-21 World Championship : Poland vs Algeria" tvg-name="10:00 Women's Volleyball: U-21 World Championship : Poland vs Algeria - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-50.php
-
-#EXTINF:-1 tvg-id="Women's Volleyball - U-21 World Championship : Japan vs Bulgaria" tvg-name="13:00 Women's Volleyball: U-21 World Championship : Japan vs Bulgaria - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-50.php
+#EXTINF:-1 tvg-id="2025 IMCA Captain of the Creek at 141 Speedway - 2025 IMCA Captain of the Creek at 141 Speedway" tvg-name="00:25 2025 IMCA Captain of the Creek at 141 Speedway - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Event PPV
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-5003.php
 
 #EXTINF:-1 tvg-id="England - League Cup - Swansea City vs Crawley Town" tvg-name="19:00 England - League Cup : Swansea City vs Crawley Town - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sports+
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-59.php
@@ -908,8 +467,8 @@ https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="Copa Libertadores - Peñarol vs Racing Club" tvg-name="01:30 Copa Libertadores : Peñarol vs Racing Club - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Croatia
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-432.php
 
-#EXTINF:-1 tvg-id="Copa Libertadores - Peñarol vs Racing Club" tvg-name="01:30 Copa Libertadores : Peñarol vs Racing Club - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Sports Argentina (CH-787)
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-9.php
+#EXTINF:-1 tvg-id="Copa Libertadores - Peñarol vs Racing Club" tvg-name="01:30 Copa Libertadores : Peñarol vs Racing Club - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Sports Argentina
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-787.php
 
 #EXTINF:-1 tvg-id="Copa Libertadores - Peñarol vs Racing Club" tvg-name="01:30 Copa Libertadores : Peñarol vs Racing Club - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 4
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-94.php
@@ -1073,6 +632,9 @@ https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="WWE NXT - WWE NXT" tvg-name="01:00 WWE NXT - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WWE", CW PIX 11 USA
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-280.php
 
+#EXTINF:-1 tvg-id="WWE NXT - WWE NXT" tvg-name="01:00 WWE NXT - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WWE", Netflix PPV
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-5005.php
+
 #EXTINF:-1 tvg-id="WWE NXT - WWE NXT" tvg-name="01:00 WWE NXT - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WWE", SuperSport Variety 3
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-418.php
 
@@ -1174,4 +736,685 @@ https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 
 #EXTINF:-1 tvg-id="Women's Volleyball - U-21 World Championship : Poland vs Czech Republic" tvg-name="09:50 Women's Volleyball: U-21 World Championship : Poland vs Czech Republic - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Cheltenham Town vs Exeter City" tvg-name="19:45 England - League Cup : Cheltenham Town vs Exeter City - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sports+
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-68.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Barnsley vs Fleetwood Town" tvg-name="19:45 England - League Cup : Barnsley vs Fleetwood Town - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sports+
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-69.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Bolton Wanderers vs Sheffield Wednesday" tvg-name="19:45 England - League Cup : Bolton Wanderers vs Sheffield Wednesday - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sports+
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-76.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Bolton Wanderers vs Sheffield Wednesday" tvg-name="19:45 England - League Cup : Bolton Wanderers vs Sheffield Wednesday - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Diema Sport Bulgaria
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-465.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Huddersfield Town vs Leicester City" tvg-name="19:45 England - League Cup : Huddersfield Town vs Leicester City - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sports+
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-36.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Huddersfield Town vs Leicester City" tvg-name="19:45 England - League Cup : Huddersfield Town vs Leicester City - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports Australia 2
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-492.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Huddersfield Town vs Leicester City" tvg-name="19:45 England - League Cup : Huddersfield Town vs Leicester City - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Azam Sports 2 HD
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Huddersfield Town vs Leicester City" tvg-name="19:45 England - League Cup : Huddersfield Town vs Leicester City - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sport Bulgaria
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-468.php
+
+#EXTINF:-1 tvg-id="Malaysia Super League - Melaka vs Penang FC" tvg-name="13:15 Malaysia Super League : Melaka vs Penang FC - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Astro Arena Bola 2
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1.php
+
+#EXTINF:-1 tvg-id="Malaysia Super League - Kuala Lumpur City vs Sabah" tvg-name="14:00 Malaysia Super League : Kuala Lumpur City vs Sabah - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Astro Arena Bola
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-3.php
+
+#EXTINF:-1 tvg-id="Russia - Russian Cup - Orenburg vs Akhmat Grozny" tvg-name="14:15 Russia - Russian Cup : Orenburg vs Akhmat Grozny - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match Premier Russia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-573.php
+
+#EXTINF:-1 tvg-id="Russia - Russian Cup - Orenburg vs Akhmat Grozny" tvg-name="14:15 Russia - Russian Cup : Orenburg vs Akhmat Grozny - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match TV Russia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-127.php
+
+#EXTINF:-1 tvg-id="African Nations Championship - Madagascar vs Central African Republic" tvg-name="15:00 African Nations Championship : Madagascar vs Central African Republic - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 3 Malaysia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-714.php
+
+#EXTINF:-1 tvg-id="African Nations Championship - Madagascar vs Central African Republic" tvg-name="15:00 African Nations Championship : Madagascar vs Central African Republic - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Variety 4
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-419.php
+
+#EXTINF:-1 tvg-id="African Nations Championship - Madagascar vs Central African Republic" tvg-name="15:00 African Nations Championship : Madagascar vs Central African Republic - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport MaXimo 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-572.php
+
+#EXTINF:-1 tvg-id="African Nations Championship - Madagascar vs Central African Republic" tvg-name="15:00 African Nations Championship : Madagascar vs Central African Republic - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 6
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-96.php
+
+#EXTINF:-1 tvg-id="African Nations Championship - Madagascar vs Central African Republic" tvg-name="15:00 African Nations Championship : Madagascar vs Central African Republic - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS XTRA 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-100.php
+
+#EXTINF:-1 tvg-id="African Nations Championship - Madagascar vs Central African Republic" tvg-name="15:00 African Nations Championship : Madagascar vs Central African Republic - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5 Live Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-146.php
+
+#EXTINF:-1 tvg-id="Slovakia Slovensky Pohar - FC Rohoznik vs. FC Malacky" tvg-name="16:00 Slovakia Slovensky Pohar : FC Rohoznik vs. FC Malacky - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RTVS Sport Slovakia HD
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php
+
+#EXTINF:-1 tvg-id="Portugal - Liga Revelação - Famalicão U23 vs Gil Vicente U23" tvg-name="16:30 Portugal - Liga Revelação : Famalicão U23 vs Gil Vicente U23 - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal 11 Portugal
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-540.php
+
+#EXTINF:-1 tvg-id="Russia - Russian Cup - Sochi vs Krylya Sovetov" tvg-name="16:30 Russia - Russian Cup : Sochi vs Krylya Sovetov - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match Premier Russia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-573.php
+
+#EXTINF:-1 tvg-id="Russia - Russian Cup - Lokomotiv Moskva vs Baltika" tvg-name="16:30 Russia - Russian Cup : Lokomotiv Moskva vs Baltika - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match TV Russia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-127.php
+
+#EXTINF:-1 tvg-id="UEFA Conference League - İstanbul Başakşehir vs Viking" tvg-name="17:00 UEFA Conference League : İstanbul Başakşehir vs Viking - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TRT 1 Turkey
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1012.php
+
+#EXTINF:-1 tvg-id="UEFA Conference League - İstanbul Başakşehir vs Viking" tvg-name="17:00 UEFA Conference League : İstanbul Başakşehir vs Viking - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SportKlub 1 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php
+
+#EXTINF:-1 tvg-id="UEFA Conference League - İstanbul Başakşehir vs Viking" tvg-name="17:00 UEFA Conference League : İstanbul Başakşehir vs Viking - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SportKlub 1 Slovenia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-28.php
+
+#EXTINF:-1 tvg-id="African Nations Championship - Mauritania vs Burkina Faso" tvg-name="18:00 African Nations Championship : Mauritania vs Burkina Faso - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 3 Malaysia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-714.php
+
+#EXTINF:-1 tvg-id="African Nations Championship - Mauritania vs Burkina Faso" tvg-name="18:00 African Nations Championship : Mauritania vs Burkina Faso - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Variety 4
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-419.php
+
+#EXTINF:-1 tvg-id="African Nations Championship - Mauritania vs Burkina Faso" tvg-name="18:00 African Nations Championship : Mauritania vs Burkina Faso - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport MaXimo 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-572.php
+
+#EXTINF:-1 tvg-id="African Nations Championship - Mauritania vs Burkina Faso" tvg-name="18:00 African Nations Championship : Mauritania vs Burkina Faso - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 6
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-96.php
+
+#EXTINF:-1 tvg-id="African Nations Championship - Mauritania vs Burkina Faso" tvg-name="18:00 African Nations Championship : Mauritania vs Burkina Faso - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS XTRA 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-100.php
+
+#EXTINF:-1 tvg-id="African Nations Championship - Mauritania vs Burkina Faso" tvg-name="18:00 African Nations Championship : Mauritania vs Burkina Faso - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5 Plus Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-145.php
+
+#EXTINF:-1 tvg-id="South Africa - DStv Premiership - Kaizer Chiefs vs Polokwane City" tvg-name="18:30 South Africa - DStv Premiership : Kaizer Chiefs vs Polokwane City - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport PSL
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-413.php
+
+#EXTINF:-1 tvg-id="South Africa - DStv Premiership - Magesi vs Stellenbosch" tvg-name="18:30 South Africa - DStv Premiership : Magesi vs Stellenbosch - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Variety 3
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-418.php
+
+#EXTINF:-1 tvg-id="Switzerland - Swiss Challenge League - Aarau vs Bellinzona" tvg-name="18:30 Switzerland - Swiss Challenge League : Aarau vs Bellinzona - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Blue Sport 1 Live
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
+
+#EXTINF:-1 tvg-id="Russia - Russian Cup - Dinamo Moskva vs Krasnodar" tvg-name="18:45 Russia - Russian Cup : Dinamo Moskva vs Krasnodar - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match Premier Russia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-573.php
+
+#EXTINF:-1 tvg-id="Russia - Russian Cup - Dinamo Moskva vs Krasnodar" tvg-name="18:45 Russia - Russian Cup : Dinamo Moskva vs Krasnodar - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match TV Russia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-127.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT Sports 1 UK
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-31.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RTE 2 Ireland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-365.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Premier Sports 1 Ireland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-771.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CBS Sports Network USA
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-308.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Vodafone Sport
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-260.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TRT Spor Turkey
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-889.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-559.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova SPORT 3 CZ
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1023.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Movistar Liga de Campeones
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-435.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Movistar Plus+
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-437.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN1 DE
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-426.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV5 Portugal
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-290.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 1 NL
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-393.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ France
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-121.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TUDN USA
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-66.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Univision
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-132.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Sport 3 Afrique
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-488.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 1 Romania
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-400.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Prima Sport 1 Romania
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-583.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Blue Sport D 2
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-3.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Kanal A Slovenia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Uno IT
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-461.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TRT 1 Turkey
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1012.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SONY TEN 2 HD
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-886.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SportKlub 1 Slovenia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-28.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Premium 1 Serbia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cytavision Sports 3 Cyprus
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-913.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV2 Sport 1 Norway
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-5.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cosmote Sport 1 Greece
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-622.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", HRT 2 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-6.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-432.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Extra 1 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-7.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RTK1 Kosovo
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-29.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ANT1 Greece
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-30.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV3+ Denmark
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-819.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 3 Bulgaria
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-474.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", bTV Action Bulgaria
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-481.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT Brasil
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-87.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Argentina
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-149.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Sports Argentina
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-787.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Sports 2 Argentina
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-788.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Viaplay Sports Sweden
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-55.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 1 Malaysia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-712.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport MaXimo 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-572.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Supersport Grandstand
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-412.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS MENA 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-91.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 2
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-92.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA English 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-61.php
+
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5 Sport Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-144.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="20:00 England - League Cup : Birmingham City vs Sheffield United - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CBS Sports Golazo USA
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-910.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="20:00 England - League Cup : Birmingham City vs Sheffield United - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ITV 4 UK
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-353.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="20:00 England - League Cup : Birmingham City vs Sheffield United - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sports Football UK
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-35.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="20:00 England - League Cup : Birmingham City vs Sheffield United - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sports Main Event UK
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-38.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="20:00 England - League Cup : Birmingham City vs Sheffield United - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova SPORT 1 CZ
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1021.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="20:00 England - League Cup : Birmingham City vs Sheffield United - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Premier League DE
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-8.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="20:00 England - League Cup : Birmingham City vs Sheffield United - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Top Event DE
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-556.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="20:00 England - League Cup : Birmingham City vs Sheffield United - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 1 France
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-116.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="20:00 England - League Cup : Birmingham City vs Sheffield United - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Azam Sports 3 HD
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-9.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="20:00 England - League Cup : Birmingham City vs Sheffield United - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 3 Romania
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-402.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="20:00 England - League Cup : Birmingham City vs Sheffield United - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 3 Premium Serbia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-139.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="20:00 England - League Cup : Birmingham City vs Sheffield United - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 2 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-433.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="20:00 England - League Cup : Birmingham City vs Sheffield United - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", V Sport Premium
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-10.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="20:00 England - League Cup : Birmingham City vs Sheffield United - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Diema Sport 2 Bulgaria
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-466.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="20:00 England - League Cup : Birmingham City vs Sheffield United - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN4 Brazil
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-85.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="20:00 England - League Cup : Birmingham City vs Sheffield United - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 2
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-92.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="20:00 England - League Cup : Birmingham City vs Sheffield United - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 3
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-93.php
+
+#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="20:00 England - League Cup : Birmingham City vs Sheffield United - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 2 Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-141.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Cerro Porteño vs Estudiantes" tvg-name="23:00 Copa Libertadores : Cerro Porteño vs Estudiantes - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS USA
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-425.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Cerro Porteño vs Estudiantes" tvg-name="23:00 Copa Libertadores : Cerro Porteño vs Estudiantes - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS en Español
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-372.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Cerro Porteño vs Estudiantes" tvg-name="23:00 Copa Libertadores : Cerro Porteño vs Estudiantes - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV1 Portugal
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-49.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Cerro Porteño vs Estudiantes" tvg-name="23:00 Copa Libertadores : Cerro Porteño vs Estudiantes - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Slovenia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Cerro Porteño vs Estudiantes" tvg-name="23:00 Copa Libertadores : Cerro Porteño vs Estudiantes - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 1 Premium Serbia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Cerro Porteño vs Estudiantes" tvg-name="23:00 Copa Libertadores : Cerro Porteño vs Estudiantes - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN4 Brazil
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-85.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Cerro Porteño vs Estudiantes" tvg-name="23:00 Copa Libertadores : Cerro Porteño vs Estudiantes - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-432.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Cerro Porteño vs Estudiantes" tvg-name="23:00 Copa Libertadores : Cerro Porteño vs Estudiantes - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Sports Argentina
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-787.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Cerro Porteño vs Estudiantes" tvg-name="23:00 Copa Libertadores : Cerro Porteño vs Estudiantes - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 4
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-94.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Cerro Porteño vs Estudiantes" tvg-name="23:00 Copa Libertadores : Cerro Porteño vs Estudiantes - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 2 Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-141.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Bolívar vs Cienciano" tvg-name="23:00 Copa Sudamericana : Bolívar vs Cienciano - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 2 Premium Serbia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-135.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Bolívar vs Cienciano" tvg-name="23:00 Copa Sudamericana : Bolívar vs Cienciano - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sportdigital FUSSBALL DE
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-571.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Bolívar vs Cienciano" tvg-name="23:00 Copa Sudamericana : Bolívar vs Cienciano - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 6
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-96.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Bolívar vs Cienciano" tvg-name="23:00 Copa Sudamericana : Bolívar vs Cienciano - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 4 Bulgaria
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-475.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Bolívar vs Cienciano" tvg-name="23:00 Copa Sudamericana : Bolívar vs Cienciano - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA English 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-61.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Bolívar vs Cienciano" tvg-name="23:00 Copa Sudamericana : Bolívar vs Cienciano - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 4 Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-143.php
+
+#EXTINF:-1 tvg-id="Argentina - Copa Argentina - Atlético Tucumán vs Newell's Old Boys" tvg-name="23:30 Argentina - Copa Argentina : Atlético Tucumán vs Newell's Old Boys - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TyC Sports Argentina
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-746.php
+
+#EXTINF:-1 tvg-id="Argentina - Copa Argentina - Atlético Tucumán vs Newell's Old Boys" tvg-name="23:30 Argentina - Copa Argentina : Atlético Tucumán vs Newell's Old Boys - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV2 Portugal
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-74.php
+
+#EXTINF:-1 tvg-id="US Open Cup - Philadelphia Union vs New York RB" tvg-name="00:00 US Open Cup : Philadelphia Union vs New York RB - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CBS Sports Network USA
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-308.php
+
+#EXTINF:-1 tvg-id="Canadian Championship - Forge vs Vancouver Whitecaps" tvg-name="00:00 Canadian Championship : Forge vs Vancouver Whitecaps - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Sports 2 USA
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-758.php
+
+#EXTINF:-1 tvg-id="Colombia - Primera A - Deportivo Cali vs Unión Magdalena" tvg-name="01:30 Colombia - Primera A : Deportivo Cali vs Unión Magdalena - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Win+ Futbol Colombia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-392.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Flamengo vs Internacional" tvg-name="01:30 Copa Libertadores : Flamengo vs Internacional - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS USA
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-425.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Flamengo vs Internacional" tvg-name="01:30 Copa Libertadores : Flamengo vs Internacional - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS en Español
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-372.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Flamengo vs Internacional" tvg-name="01:30 Copa Libertadores : Flamengo vs Internacional - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", sportdigital1+ DE
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-640.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Flamengo vs Internacional" tvg-name="01:30 Copa Libertadores : Flamengo vs Internacional - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV1 Portugal
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-49.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Flamengo vs Internacional" tvg-name="01:30 Copa Libertadores : Flamengo vs Internacional - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 1 Premium Serbia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Flamengo vs Internacional" tvg-name="01:30 Copa Libertadores : Flamengo vs Internacional - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Polsat Sport 3 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-129.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Flamengo vs Internacional" tvg-name="01:30 Copa Libertadores : Flamengo vs Internacional - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN 1 NL
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-379.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Flamengo vs Internacional" tvg-name="01:30 Copa Libertadores : Flamengo vs Internacional - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Slovenia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Flamengo vs Internacional" tvg-name="01:30 Copa Libertadores : Flamengo vs Internacional - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-432.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Flamengo vs Internacional" tvg-name="01:30 Copa Libertadores : Flamengo vs Internacional - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cosmote Sport 3 Greece
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-624.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Flamengo vs Internacional" tvg-name="01:30 Copa Libertadores : Flamengo vs Internacional - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-81.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Flamengo vs Internacional" tvg-name="01:30 Copa Libertadores : Flamengo vs Internacional - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 4 Bulgaria
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-475.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Flamengo vs Internacional" tvg-name="01:30 Copa Libertadores : Flamengo vs Internacional - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Sports Argentina
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-787.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Flamengo vs Internacional" tvg-name="01:30 Copa Libertadores : Flamengo vs Internacional - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 4
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-94.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Flamengo vs Internacional" tvg-name="01:30 Copa Libertadores : Flamengo vs Internacional - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA English 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-61.php
+
+#EXTINF:-1 tvg-id="Copa Libertadores - Flamengo vs Internacional" tvg-name="01:30 Copa Libertadores : Flamengo vs Internacional - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 2 Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-141.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Universidad Chile vs Independiente" tvg-name="01:30 Copa Sudamericana : Universidad Chile vs Independiente - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Argentina
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-149.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Universidad Chile vs Independiente" tvg-name="01:30 Copa Sudamericana : Universidad Chile vs Independiente - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 6
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-96.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Universidad Chile vs Independiente" tvg-name="01:30 Copa Sudamericana : Universidad Chile vs Independiente - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA English 2
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-90.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Universidad Chile vs Independiente" tvg-name="01:30 Copa Sudamericana : Universidad Chile vs Independiente - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN4 Brazil
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-85.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Alianza Lima vs Universidad Católica" tvg-name="01:30 Copa Sudamericana : Alianza Lima vs Universidad Católica - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 6
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-96.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Alianza Lima vs Universidad Católica" tvg-name="01:30 Copa Sudamericana : Alianza Lima vs Universidad Católica - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA English 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-61.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Alianza Lima vs Universidad Católica" tvg-name="01:30 Copa Sudamericana : Alianza Lima vs Universidad Católica - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 4 Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-143.php
+
+#EXTINF:-1 tvg-id="Colombia - Primera A - Santa Fe vs Millonarios" tvg-name="02:30 Colombia - Primera A : Santa Fe vs Millonarios - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Win+ Futbol Colombia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-392.php
+
+#EXTINF:-1 tvg-id="Canadian Championship - Vancouver FC vs Atlético Ottawa" tvg-name="03:00 Canadian Championship : Vancouver FC vs Atlético Ottawa - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Sports 2 USA
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-758.php
+
+#EXTINF:-1 tvg-id="CONCACAF Central American Cup - Alianza vs Managua" tvg-name="03:00 CONCACAF Central American Cup : Alianza vs Managua - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Soccer Plus
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-756.php
+
+#EXTINF:-1 tvg-id="ATP - CINCINNATI - Tiafoe F. vs Rune H." tvg-name="16:00 ATP - CINCINNATI : Tiafoe F. vs Rune H. - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1509.php
+
+#EXTINF:-1 tvg-id="ATP - CINCINNATI - Auger-Aliassime F. vs Bonzi B." tvg-name="17:30 ATP - CINCINNATI : Auger-Aliassime F. vs Bonzi B. - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1511.php
+
+#EXTINF:-1 tvg-id="ATP - CINCINNATI - Sinner J. vs Mannarino A." tvg-name="17:30 ATP - CINCINNATI : Sinner J. vs Mannarino A. - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1509.php
+
+#EXTINF:-1 tvg-id="ATP - CINCINNATI - Fritz T. vs Atmane T." tvg-name="19:00 ATP - CINCINNATI : Fritz T. vs Atmane T. - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1510.php
+
+#EXTINF:-1 tvg-id="ATP - CINCINNATI - Comesana F. vs Rublev A." tvg-name="20:30 ATP - CINCINNATI : Comesana F. vs Rublev A. - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1511.php
+
+#EXTINF:-1 tvg-id="ATP - CINCINNATI - Khachanov K. vs Zverev A." tvg-name="22:00 ATP - CINCINNATI : Khachanov K. vs Zverev A. - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1510.php
+
+#EXTINF:-1 tvg-id="ATP - CINCINNATI - Lehecka J. vs Shelton or Bautista-Agut" tvg-name="23:30 ATP - CINCINNATI : Lehecka J. vs Shelton or Bautista-Agut - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1510.php
+
+#EXTINF:-1 tvg-id="ATP - CINCINNATI - Nardi L. vs Alcaraz C." tvg-name="00:00 ATP - CINCINNATI : Nardi L. vs Alcaraz C. - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1509.php
+
+#EXTINF:-1 tvg-id="WTA - CINCINNATI - Swiatek 1. vs Cirstea S." tvg-name="16:00 WTA - CINCINNATI : Swiatek 1. vs Cirstea S. - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1502.php
+
+#EXTINF:-1 tvg-id="WTA - CINCINNATI - Rybakina E. vs Keys M." tvg-name="17:30 WTA - CINCINNATI : Rybakina E. vs Keys M. - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1502.php
+
+#EXTINF:-1 tvg-id="WTA - CINCINNATI - Sabalenka A. vs Bouzas Maneiro J." tvg-name="20:00 WTA - CINCINNATI : Sabalenka A. vs Bouzas Maneiro J. - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - CINCINNATI - Alexandrova E. vs Kalinskaya A." tvg-name="01:30 WTA - CINCINNATI : Alexandrova E. vs Kalinskaya A. - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1501.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-40.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-46.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-113.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-701.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet One
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-411.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet Ontario
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-406.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet West
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-407.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet East
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-408.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TVA Sports
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-833.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport TV2 Portugal
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-74.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-393.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-915.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-396.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-491.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-492.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-472.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-474.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-713.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-102.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-453.php
+
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="16:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Tenis
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-612.php
+
+#EXTINF:-1 tvg-id="EuroHockey Championship Women - Ireland W vs Germany W" tvg-name="19:00 EuroHockey Championship Women : Ireland W vs Germany W - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Field Hockey", Magenta Sport 318
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-11.php
+
+#EXTINF:-1 tvg-id="All Elite Wrestling - Dynamite" tvg-name="01:00 All Elite Wrestling: Dynamite - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WWE", TBS USA
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-336.php
+
+#EXTINF:-1 tvg-id="All Elite Wrestling - Dynamite" tvg-name="01:00 All Elite Wrestling: Dynamite - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WWE", TSN2
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-112.php
+
+#EXTINF:-1 tvg-id="All Elite Wrestling - Dynamite" tvg-name="01:00 All Elite Wrestling: Dynamite - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WWE", Fox Sports Premium MX
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-830.php
+
+#EXTINF:-1 tvg-id="Junior Mxgp – Junior Motocross World Championship - Junior Mxgp – Junior Motocross World Championship" tvg-name="00:45 Junior Mxgp – Junior Motocross World Championship - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Prima Sport 3
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-585.php
+
+#EXTINF:-1 tvg-id="Asian Cup (M) - 1/4 Final 1" tvg-name="12:00 Asian Cup (M): 1/4 Final 1 - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php
+
+#EXTINF:-1 tvg-id="Afrobasket - Madagascar vs Nigeria" tvg-name="14:30 Afrobasket : Madagascar vs Nigeria - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php
+
+#EXTINF:-1 tvg-id="Afrobasket - Ivory Coast vs Rwanda" tvg-name="16:00 Afrobasket : Ivory Coast vs Rwanda - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 3 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-103.php
+
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Norway vs. Denmark" tvg-name="17:00 FIBA WC, EU Pre-Qualifiers : Norway vs. Denmark - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV2 Sport 2 Norway
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-19.php
+
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Romania vs North Macedonia" tvg-name="17:00 FIBA WC, EU Pre-Qualifiers : Romania vs North Macedonia - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Digi Sport 3 Romania
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-402.php
+
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Romania vs North Macedonia" tvg-name="17:00 FIBA WC, EU Pre-Qualifiers : Romania vs North Macedonia - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Prima Sport 1 Romania
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-583.php
+
+#EXTINF:-1 tvg-id="Afrobasket - Tunisia vs Cameroon" tvg-name="17:30 Afrobasket : Tunisia vs Cameroon - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 8 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-77.php
+
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Switzerland vs Slovakia" tvg-name="17:50 FIBA WC, EU Pre-Qualifiers : Switzerland vs Slovakia - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", RSI La 2 IT
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-12.php
+
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Switzerland vs Slovakia" tvg-name="17:50 FIBA WC, EU Pre-Qualifiers : Switzerland vs Slovakia - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", JOJ Sport Slovakia 2 HD
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-20.php
+
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Austria vs. Netherlands" tvg-name="18:20 FIBA WC, EU Pre-Qualifiers : Austria vs. Netherlands - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", HRT 2 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-6.php
+
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Austria vs. Netherlands" tvg-name="18:20 FIBA WC, EU Pre-Qualifiers : Austria vs. Netherlands - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ORF Sport Plus
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-21.php
+
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Austria vs. Netherlands" tvg-name="18:20 FIBA WC, EU Pre-Qualifiers : Austria vs. Netherlands - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sky Sport Austria 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-559.php
+
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Austria vs. Netherlands" tvg-name="18:20 FIBA WC, EU Pre-Qualifiers : Austria vs. Netherlands - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", VTM 2
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-22.php
+
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Austria vs. Netherlands" tvg-name="18:20 FIBA WC, EU Pre-Qualifiers : Austria vs. Netherlands - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Club RTL Belgium
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-59.php
+
+#EXTINF:-1 tvg-id="Afrobasket - D.R. Congo vs Cape Verde" tvg-name="19:00 Afrobasket : D.R. Congo vs Cape Verde - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 3 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-103.php
+
+#EXTINF:-1 tvg-id="Globl Jam Women - Canada vs Brazil" tvg-name="23:00 Globl Jam Women : Canada vs Brazil - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportsnet One
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-411.php
+
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky vs Connecticut Sun" tvg-name="00:00 WNBA : Chicago Sky vs Connecticut Sun - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBC Sports Boston
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-754.php
+
+#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Washington Mystics" tvg-name="00:30 WNBA : Golden State Valkyries W vs Washington Mystics - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Monumental Sports Network
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-778.php
+
+#EXTINF:-1 tvg-id="Globl Jam Men - Brazil vs Canada" tvg-name="01:00 Globl Jam Men: Brazil vs Canada - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportsnet One
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-411.php
+
+#EXTINF:-1 tvg-id="WNBA - Las Vegas Aces W vs New York Liberty W" tvg-name="02:30 WNBA : Las Vegas Aces W vs New York Liberty W - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN USA
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-44.php
+
+#EXTINF:-1 tvg-id="WNBA - Las Vegas Aces W vs New York Liberty W" tvg-name="02:30 WNBA : Las Vegas Aces W vs New York Liberty W - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN4
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-114.php
+
+#EXTINF:-1 tvg-id="WNBA - Las Vegas Aces W vs New York Liberty W" tvg-name="02:30 WNBA : Las Vegas Aces W vs New York Liberty W - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-111.php
+
+#EXTINF:-1 tvg-id="WNBA - Atlanta Dream vs Seattle Storm" tvg-name="03:00 WNBA : Atlanta Dream vs Seattle Storm - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-10.php
+
+#EXTINF:-1 tvg-id="Club Friendly Games - THW Kiel vs. RK Sloga Doboj" tvg-name="17:00 Club Friendly Games : THW Kiel vs. RK Sloga Doboj - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Sport 1 Hungary
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-23.php
+
+#EXTINF:-1 tvg-id="Club Friendly Games - Besiktas Istanbul vs. Veszprem KC" tvg-name="19:45 Club Friendly Games : Besiktas Istanbul vs. Veszprem KC - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Sport 1 Hungary
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-23.php
+
+#EXTINF:-1 tvg-id="Padel - World Padel League" tvg-name="11:30 Padel: World Padel League - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", Sport TV2 Portugal
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-74.php
+
+#EXTINF:-1 tvg-id="Padel - World Padel League" tvg-name="14:00 Padel: World Padel League - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", Sport TV2 Portugal
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-74.php
+
+#EXTINF:-1 tvg-id="Beach Volleyball Pro Tour (W) - Beach Volleyball Pro Tour (W)" tvg-name="14:30 Beach Volleyball Pro Tour (W) - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 4 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-104.php
+
+#EXTINF:-1 tvg-id="Beach Volleyball Pro Tour (W) - Beach Volleyball Pro Tour (W)" tvg-name="15:00 Beach Volleyball Pro Tour (W) - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub HD Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-453.php
+
+#EXTINF:-1 tvg-id="European Championship Qualification - Czech Republic vs. Montenegro" tvg-name="17:00 European Championship Qualification : Czech Republic vs. Montenegro - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", CT Sport Czech HD
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-24.php
+
+#EXTINF:-1 tvg-id="European Championships - Slovakia vs Latvia" tvg-name="18:00 European Championships : Slovakia vs Latvia - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-50.php
+
+#EXTINF:-1 tvg-id="European Championships - Slovakia vs Latvia" tvg-name="18:00 European Championships : Slovakia vs Latvia - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", JOJ Sport Slovakia HD
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-25.php
+
+#EXTINF:-1 tvg-id="European Championship Qualification - Spain vs. Switzerland" tvg-name="18:30 European Championship Qualification : Spain vs. Switzerland - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Teledeporte Spain (TDP)
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-529.php
+
+#EXTINF:-1 tvg-id="European Championship Qualification - Spain vs. Switzerland" tvg-name="18:30 European Championship Qualification : Spain vs. Switzerland - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SRF Zwei Switzerland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-26.php
+
+#EXTINF:-1 tvg-id="European Championship Qualification - Croatia vs. Estonia" tvg-name="19:30 European Championship Qualification : Croatia vs. Estonia - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SPTV Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-27.php
 
