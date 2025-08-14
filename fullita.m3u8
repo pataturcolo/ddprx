@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
+#EXTINF:-1 tvg-id="Club Friendly - Napoli vs Olympiakos Piraeus" tvg-name="17:00 Club Friendly : Napoli vs Olympiakos Piraeus - 14/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 251 IT
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-10.php
 
-#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="20:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Uno IT
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-461.php
-
-#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="20:00 England - League Cup : Birmingham City vs Sheffield United - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ITV 4 UK
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-353.php
-
-#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Switzerland vs Slovakia" tvg-name="17:50 FIBA WC, EU Pre-Qualifiers : Switzerland vs Slovakia - 13/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", RSI La 2 IT
-https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-12.php
+#EXTINF:-1 tvg-id="UEFA Conference League - Shamrock Rovers vs Ballkani" tvg-name="20:00 UEFA Conference League : Shamrock Rovers vs Ballkani - 14/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-55.php
 
