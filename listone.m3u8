@@ -802,6 +802,10 @@ https://proxiaml.onrender.com/proxy/mpd/manifest.m3u8?d=https%3A//abe6fjxaaaaaaa
 # Canali aggiunti da Hattrick
 #EXTINF:-1 tvg-id="dazn1.it" tvg-name="DAZN 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport", DAZN 1 (Hd)
 https://proxiaml.onrender.com/proxy/mpd/manifest.m3u8?d=https%3A//abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd&api_password=proxiaml
+
+# Canali aggiunti da Hattrick
+#EXTINF:-1 tvg-id="dazn1.it" tvg-name="DAZN 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport", DAZN 1 (Hd)
+https://proxiaml.onrender.com/proxy/mpd/manifest.m3u8?d=https%3A//abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd&api_password=proxiaml
 #EXTINF:-1 tvg-id="Frauen-Bundesliga - Bayer Leverkusen vs Union Berlin" tvg-name="18:00 Frauen-Bundesliga : Bayer Leverkusen vs Union Berlin - 15/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Magenta Sport 301
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php
 
@@ -1173,4 +1177,655 @@ https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 
 #EXTINF:-1 tvg-id="Brazil Paulista, Women - Flor de Ypê Paulistano Barueri vs Osasco São Cristóvão Saúde" tvg-name="01:00 Brazil Paulista, Women : Flor de Ypê Paulistano Barueri vs Osasco São Cristóvão Saúde - 15/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportv2 Brazil
 https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-79.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="18:45 UEFA Champions League : Simulcast - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-559.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="18:45 UEFA Champions League : Simulcast - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN2 DE
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-427.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT Sports 2 UK
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-32.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CBS Sports Network USA
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-308.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Club RTL Belgium
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 4
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-5.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CANAL+ EXTRA 3 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-68.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TRT Spor Turkey
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-889.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sport 3 CZ
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1023.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Movistar Liga de Campeones 3
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-6.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 2 Portugal
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-456.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Sport France
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-122.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 1 NL
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-393.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 2 Romania
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-401.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Prima Sport 2 Romania
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-584.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 3 Malaysia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-714.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV3 MAX Denmark
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-223.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 2 Premium Serbia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-135.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 3 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-434.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 4 Bulgaria
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-475.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Space Brazil
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-7.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN2 Argentina
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-150.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Variety 3
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-418.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 4
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-94.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - PSV vs Union Saint-Gilloise" tvg-name="18:45 UEFA Champions League : PSV vs Union Saint-Gilloise - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5 Live Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-146.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT Sports 1 UK
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-31.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Paramount+
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-69.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 3
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-8.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN1 DE
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-426.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Movistar Liga de Campeones 2
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TRT Spor Turkey
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-889.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CANAL + EXTRA 2 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-76.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sport 4 CZ
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1024.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 1 Portugal
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-455.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Foot France
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-463.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TUDN USA
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-66.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", UniMás
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-133.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 1 Romania
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-400.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Prima Sport 1 Romania
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-583.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 3 NL
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-919.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports Malaysia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-712.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 1 Premium Serbia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV3 Sport Denmark
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-809.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Sports 1 Argentina
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-787.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 2 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-433.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 3 Bulgaria
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-474.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT Brasil
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-87.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport MaXimo 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-572.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-91.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA English 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-61.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Athletic Club vs Arsenal" tvg-name="18:45 UEFA Champions League : Athletic Club vs Arsenal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5Plus Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-145.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="21:00 UEFA Champions League : Simulcast - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-559.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="21:00 UEFA Champions League : Simulcast - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Movistar Liga de Campeones 4
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-15.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="21:00 UEFA Champions League : Simulcast - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN2 DE
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-427.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="21:00 UEFA Champions League : Simulcast - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 4 NL
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-396.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="21:00 UEFA Champions League : Simulcast - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ 360 France
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-464.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="21:00 UEFA Champions League : Simulcast - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CANAL+ EXTRA 4 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-77.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT Sports 3 UK
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-33.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ictimai TV
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-86.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CBS Sports Network USA
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-308.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV5 Portugal
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-290.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 5
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-16.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CANAL+ EXTRA 3 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-68.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Movistar Liga de Campeones 6
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-17.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sport 5 CZ
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1025.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TRT Spor Turkey
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-889.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 255 IT
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-18.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Live 4 France
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-55.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 4 Premium Serbia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-105.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 6 NL
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-901.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 4 Romania
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-403.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Prima Sport 4 Romania
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-586.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV2 Sport Norway
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-19.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV3 MAX Denmark
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-223.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 1 Bulgaria
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-472.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN3 Argentina
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-798.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Variety 2
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-417.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Qarabağ" tvg-name="21:00 UEFA Champions League : Benfica vs Qarabağ - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 5
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-95.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Stan Sport
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-106.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 4
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-5.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Paramount+
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-107.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TRT Spor Turkey
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-889.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Movistar Liga de Campeones 2
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Premier Sports 1 Ireland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-771.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sport 4 CZ
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1024.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 3 Portugal
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-457.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CANAL+ 360 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-567.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 254 IT
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-20.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Max IT
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-460.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Sport France
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-122.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 5 NL
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-383.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 3 Malaysia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-714.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 3 Romania
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-402.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Prima Sport 3 Romania
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-585.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 3 Premium Serbia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-139.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 3 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-434.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV3 Sport Denmark
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-809.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", V Sport Football
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-21.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 2 Bulgaria
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-473.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Space Brazil
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-7.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Sports 2 Argentina (CH-788) SuperSport Variety 3
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-418.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 3
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-93.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Tottenham Hotspur vs Villarreal" tvg-name="21:00 UEFA Champions League : Tottenham Hotspur vs Villarreal - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5Plus Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-145.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT Sports 2 UK
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-32.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Paramount+
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-108.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 2
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-22.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Uno IT
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-461.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 252 IT
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-23.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sport 3 CZ
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1023.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TRT Spor Turkey
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-889.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Movistar Liga de Campeones 5
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-24.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 2 Portugal
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-456.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 3 NL
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-919.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Foot France
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-463.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CANAL + EXTRA 2 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-76.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 2 Malaysia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-713.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TUDN USA
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-66.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", UniMás
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-133.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 2 Romania
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-401.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Prima Sport 2 Romania
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-584.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-432.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 1 Premium Serbia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", V Sport Premium
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-25.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 4 Bulgaria
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-475.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN2 Argentina
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-150.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Action
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-420.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 4
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-94.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Juventus vs Borussia Dortmund" tvg-name="21:00 UEFA Champions League : Juventus vs Borussia Dortmund - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5Stars Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-147.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT Sports 1 UK
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-31.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ France
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-121.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Paramount+
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-109.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Movistar Liga de Campeones
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-435.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 3
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-8.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sport 6 CZ
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1026.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TRT Spor Turkey
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-889.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN 1 DE
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-426.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 1 Portugal
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-455.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Sport 5 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-75.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 253 IT
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-26.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CANAL+ EXTRA 1 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-110.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 2 NL
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-398.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports Malaysia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-712.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 1 Romania
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-400.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Prima Sport 1 Romania
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-583.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Kanal A Slovenia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-27.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 2 Premium Serbia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-135.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cosmote Sport 2 Greece
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-623.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV3+ HD Denmark
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-819.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 2 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-433.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Viaplay Sport Sweden
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-151.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 3 Bulgaria
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-474.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT Brasil
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-87.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Argentina
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-149.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport MáXimo 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-572.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-91.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA English 1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-61.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Real Madrid vs Olympique Marseille" tvg-name="21:00 UEFA Champions League : Real Madrid vs Olympique Marseille - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5Sport Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-144.php
+
+#EXTINF:-1 tvg-id="Brazil - Serie B - Chapecoense vs Athletico-PR" tvg-name="02:35 Brazil - Serie B : Chapecoense vs Athletico-PR - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-81.php
+
+#EXTINF:-1 tvg-id="WTA - SEOUL - Krejcikova B. vs Prozorova T." tvg-name="07:00 WTA - SEOUL : Krejcikova B. vs Prozorova T. - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SEOUL", Tennis Stream
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
+
+#EXTINF:-1 tvg-id="WTA - SEOUL - Shnaider D. vs McNally C." tvg-name="07:00 WTA - SEOUL : Shnaider D. vs McNally C. - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SEOUL", Tennis Stream
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
+
+#EXTINF:-1 tvg-id="WTA - SEOUL - Lamens S. vs Maria T." tvg-name="08:30 WTA - SEOUL : Lamens S. vs Maria T. - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SEOUL", Tennis Stream
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
+
+#EXTINF:-1 tvg-id="WTA - SEOUL - Zakharova A. vs Cirstea S." tvg-name="08:30 WTA - SEOUL : Zakharova A. vs Cirstea S. - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SEOUL", Tennis Stream
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
+
+#EXTINF:-1 tvg-id="WTA - SEOUL - Cristian J. vs Raducanu E." tvg-name="10:30 WTA - SEOUL : Cristian J. vs Raducanu E. - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SEOUL", Tennis Stream
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
+
+#EXTINF:-1 tvg-id="WTA - SEOUL - Haddad Maia B. vs Back D." tvg-name="12:30 WTA - SEOUL : Haddad Maia B. vs Back D. - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SEOUL", Tennis Stream
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
+
+#EXTINF:-1 tvg-id="Puchar Billie Jean King - Italy vs China" tvg-name="11:00 Puchar Billie Jean King : Italy vs China - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-396.php
+
+#EXTINF:-1 tvg-id="Puchar Billie Jean King - Italy vs China" tvg-name="11:00 Puchar Billie Jean King : Italy vs China - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 France
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-117.php
+
+#EXTINF:-1 tvg-id="Puchar Billie Jean King - Italy vs China" tvg-name="11:00 Puchar Billie Jean King : Italy vs China - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 3 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-129.php
+
+#EXTINF:-1 tvg-id="Puchar Billie Jean King - Italy vs China" tvg-name="11:00 Puchar Billie Jean King : Italy vs China - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", 5 Live Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-146.php
+
+#EXTINF:-1 tvg-id="BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds - BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds" tvg-name="07:00 BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-40.php
+
+#EXTINF:-1 tvg-id="BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds - BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds" tvg-name="07:00 BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports+
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-36.php
+
+#EXTINF:-1 tvg-id="BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds - BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds" tvg-name="07:00 BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 France
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-117.php
+
+#EXTINF:-1 tvg-id="BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds - BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds" tvg-name="07:00 BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-884.php
+
+#EXTINF:-1 tvg-id="BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds - BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds" tvg-name="07:00 BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Tennis
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-612.php
+
+#EXTINF:-1 tvg-id="BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds - BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds" tvg-name="07:00 BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
+
+#EXTINF:-1 tvg-id="BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds - BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds" tvg-name="07:00 BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-701.php
+
+#EXTINF:-1 tvg-id="BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds - BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds" tvg-name="07:00 BJK Cup Finals Quarterfinals ITA v. CHN; Seoul-WTA Early Rounds - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-102.php
+
+#EXTINF:-1 tvg-id="Israel - League Cup : Ironi Kiryat Ata vs Hapoel Tel-Aviv" tvg-name="16:00 Israel: League Cup : Ironi Kiryat Ata vs Hapoel Tel-Aviv - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-144.php
+
+#EXTINF:-1 tvg-id="Israeli Basketball League Cup - Barak Netanya vs Hapoel Unet Holon" tvg-name="18:00 Israeli Basketball League Cup : Barak Netanya vs Hapoel Unet Holon - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 4 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-104.php
+
+#EXTINF:-1 tvg-id="Israeli Basketball League Cup - Barak Netanya vs Hapoel Unet Holon" tvg-name="18:00 Israeli Basketball League Cup : Barak Netanya vs Hapoel Unet Holon - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", 5 Star Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-147.php
+
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Atlanta Dream W" tvg-name="01:30 WNBA : Indiana Fever W vs Atlanta Dream W - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN USA
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-44.php
+
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Atlanta Dream W" tvg-name="01:30 WNBA : Indiana Fever W vs Atlanta Dream W - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN1
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-111.php
+
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Atlanta Dream W" tvg-name="01:30 WNBA : Indiana Fever W vs Atlanta Dream W - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN4
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-114.php
+
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Atlanta Dream W" tvg-name="01:30 WNBA : Indiana Fever W vs Atlanta Dream W - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 Brazil
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-82.php
+
+#EXTINF:-1 tvg-id="WNBA - Seattle Storm vs Las Vegas Aces" tvg-name="03:30 WNBA : Seattle Storm vs Las Vegas Aces - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN USA
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-44.php
+
+#EXTINF:-1 tvg-id="WNBA - Seattle Storm vs Las Vegas Aces" tvg-name="03:30 WNBA : Seattle Storm vs Las Vegas Aces - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN4
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-114.php
+
+#EXTINF:-1 tvg-id="WNBA - Seattle Storm vs Las Vegas Aces" tvg-name="03:30 WNBA : Seattle Storm vs Las Vegas Aces - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 Brazil
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-82.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Iran vs Tunisia" tvg-name="07:30 FIVB World Championship : Iran vs Tunisia - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-50.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Iran vs Tunisia" tvg-name="07:30 FIVB World Championship : Iran vs Tunisia - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 2 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-102.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Ukraine vs Algeria" tvg-name="08:00 FIVB World Championship : Ukraine vs Algeria - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-50.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Ukraine vs Algeria" tvg-name="08:00 FIVB World Championship : Ukraine vs Algeria - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 3 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-103.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Ukraine vs Algeria" tvg-name="08:00 FIVB World Championship : Ukraine vs Algeria - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport 3 Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-142.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Philippines vs Egypt" tvg-name="11:30 FIVB World Championship : Philippines vs Egypt - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Philippines vs Egypt" tvg-name="11:30 FIVB World Championship : Philippines vs Egypt - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 4 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-104.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Philippines vs Egypt" tvg-name="11:30 FIVB World Championship : Philippines vs Egypt - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport 2 Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-141.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - France vs Finland" tvg-name="12:00 FIVB World Championship : France vs Finland - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-50.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - France vs Finland" tvg-name="12:00 FIVB World Championship : France vs Finland - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", L Equipe France
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-645.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - France vs Finland" tvg-name="12:00 FIVB World Championship : France vs Finland - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena 2 Premium Serbia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-135.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - France vs Finland" tvg-name="12:00 FIVB World Championship : France vs Finland - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 2 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-102.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - France vs Finland" tvg-name="12:00 FIVB World Championship : France vs Finland - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", MAX Sport 2 Bulgaria
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-473.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - France vs Finland" tvg-name="12:00 FIVB World Championship : France vs Finland - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport 3 Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-142.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Serbia vs China" tvg-name="15:00 FIVB World Championship : Serbia vs China - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-50.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Serbia vs China" tvg-name="15:00 FIVB World Championship : Serbia vs China - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 1 Serbia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Serbia vs China" tvg-name="15:00 FIVB World Championship : Serbia vs China - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", MAX Sport 1 Bulgaria
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-472.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Serbia vs China" tvg-name="15:00 FIVB World Championship : Serbia vs China - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport 3 Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-142.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Italy vs Belgium" tvg-name="15:30 FIVB World Championship : Italy vs Belgium - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Italy vs Belgium" tvg-name="15:30 FIVB World Championship : Italy vs Belgium - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Rai 2 IT
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-851.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Italy vs Belgium" tvg-name="15:30 FIVB World Championship : Italy vs Belgium - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Zona DAZN IT
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-877.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Italy vs Belgium" tvg-name="15:30 FIVB World Championship : Italy vs Belgium - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 2 Croatia
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-102.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Italy vs Belgium" tvg-name="15:30 FIVB World Championship : Italy vs Belgium - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", MAX Sport 2 Bulgaria
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-473.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Italy vs Belgium" tvg-name="15:30 FIVB World Championship : Italy vs Belgium - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport 2 Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-141.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Portugal vs Colombia" tvg-name="04:00 FIVB World Championship : Portugal vs Colombia - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-50.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Portugal vs Colombia" tvg-name="04:00 FIVB World Championship : Portugal vs Colombia - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", RTP 2 Portugal
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-720.php
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Portugal vs Colombia" tvg-name="04:00 FIVB World Championship : Portugal vs Colombia - 16/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport 4 Israel
+https://daddus-proxiamldd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-143.php
 
